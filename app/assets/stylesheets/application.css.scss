@@ -3,7 +3,6 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
-  background-image: url('gro.png');
 }
 
 .navbar-fixed-top {
@@ -15,6 +14,17 @@ body {
   color: white;
 }
 
-.page1 {
+section.module.parallax-1 {
   color: white;
+  vertical-align: middle;
+  min-height: 100rem;
+  font-size: 60px;
+  background-image: url('gro.png');
+}
+
+section.module.parallax-2 {
+  color: #323298;
+  vertical-align: middle;
+  min-height: 70rem;
+  font-size: 30pt;
 }
