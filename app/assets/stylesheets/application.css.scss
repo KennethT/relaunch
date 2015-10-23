@@ -8,6 +8,8 @@ body {
 .navbar-fixed-top {
   padding-top: 2rem;
   padding-left: 0rem;
+  background-color: #323298;
+  opacity: 0.6;
 }
 
 .navbar {
@@ -27,4 +29,20 @@ section.module.parallax-2 {
   vertical-align: middle;
   min-height: 70rem;
   font-size: 30pt;
+}
+
+section.module.parallax-3 {
+  color: #FFFFFF;
+  vertical-align: middle;
+  min-height: 70rem;
+  font-size: 60px;
+  background-color: #7AE0BE;
+}
+
+section.module.parallax-4 {
+  color: #FFFFFF;
+  vertical-align: middle;
+  min-height: 70rem;
+  font-size: 60px;
+  background-color: #7AD8E0;
 }
