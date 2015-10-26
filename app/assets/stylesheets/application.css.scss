@@ -5,6 +5,11 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+button {
+  border: none;
+  background: none;
+}
+
 .garamond {
   font-family: 'EB Garamond', serif;
   color: black;
@@ -20,6 +25,12 @@ body {
 
 .navbar {
   color: white;
+}
+
+div.center {
+  width: 200px;
+  position: relative;
+  left: 50%;
 }
 
 section.module.parallax-1 {
