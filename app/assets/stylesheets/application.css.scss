@@ -17,9 +17,17 @@ button {
 
 .whatwedo {
   text-decoration: underline;
-  color: #FFF772;
+  text-decoration-color: #FFF772;
   margin: 0;
   padding: 0;
+}
+
+.whatwedoheader {
+  font-size: 26px;
+}
+
+.whatwedobody {
+  font-size: 18px;
 }
 
 .navbar-fixed-top {
